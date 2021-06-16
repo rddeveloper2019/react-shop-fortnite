@@ -1,0 +1,3488 @@
+{
+    "uid": "3a501e88ec905230cc52ddf4fd2eb0b6037bf7dc",
+    "warning": "This endpoint is deprecated, use v2",
+    "fullShop": true,
+    "endingDates": {
+        "daily": "2021-06-14T00:00:00+00:00",
+        "featured": "2021-06-14T00:00:00+00:00"
+    },
+    "featured": [
+        {
+            "id": "EID_Balance",
+            "name": "Держи равновесие",
+            "description": "Не упади с шара!",
+            "type": "emote",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 01",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/b6253818ea15a1332aa40eefb6061147b2088e04e780f395472279d149ddc879",
+            "releaseDate": "2021-06-13",
+            "lastAppearance": "2021-06-13",
+            "interest": 1.52,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_Balance.png",
+            "icon": "https://media.fortniteapi.io/images/5d2d0ba439036d05d51deb896df0aa5f/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/5d2d0ba439036d05d51deb896df0aa5f/background_full.ru.png",
+            "items": [
+                "eid_balance"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_784_Athena_Commando_F_RenegadeRaiderFire",
+            "name": "Вспышка",
+            "description": "Незаметной её точно не назовёшь.",
+            "type": "outfit",
+            "rarity": "lava series",
+            "internalRarity": "legendary",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 01",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/101211b27285eab027adf7d3e0c23a6e3b0009e83cb3c7e6fe782c5cad2e4764",
+            "releaseDate": "2020-06-28",
+            "lastAppearance": "2021-05-10",
+            "interest": 3.04,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_784_Athena_Commando_F_RenegadeRaiderFire.png",
+            "icon": "https://media.fortniteapi.io/images/61353db005257542ce48c83d2485a24d/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/61353db005257542ce48c83d2485a24d/background_full.ru.png",
+            "items": [
+                "cid_784_athena_commando_f_renegaderaiderfire",
+                "bid_545_renegaderaiderfire"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_545_RenegadeRaiderFire",
+                    "name": "Огненный шар",
+                    "description": "Внимание: При неумелом обращении можно получить ожог.",
+                    "type": "backpack",
+                    "rarity": "lava series",
+                    "internalRarity": "legendary",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/65a4013d96c8670f530f6ce5c117b913/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/65a4013d96c8670f530f6ce5c117b913/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/65a4013d96c8670f530f6ce5c117b913/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_848_Athena_Commando_F_DarkNinjaPurple",
+            "name": "Ужасающая Cудьба",
+            "description": "Да будет ужасной их судьба.",
+            "type": "outfit",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1800,
+            "priceNoDiscount": 1800,
+            "categories": "Panel 02",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/2e651744d7e83a14b5ac7b713b65583c5de8fbb5a6c7975fdb6d9862e00a6eef",
+            "releaseDate": "2020-09-04",
+            "lastAppearance": "2021-05-01",
+            "interest": 1.1,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_848_Athena_Commando_F_DarkNinjaPurple.png",
+            "icon": "https://media.fortniteapi.io/images/0096dd04f823ed436e2149fed323580d/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/0096dd04f823ed436e2149fed323580d/background_full.ru.png",
+            "items": [
+                "cid_848_athena_commando_f_darkninjapurple",
+                "bid_602_darkninjapurple_female",
+                "pickaxe_id_452_darkninjapurple1h"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_602_DarkNinjaPurple_Female",
+                    "name": "Ужасающий щит",
+                    "description": "Устрашающая острота.",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/fdde52d2ca0069659b8a3f2a6d5177c8/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/fdde52d2ca0069659b8a3f2a6d5177c8/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/fdde52d2ca0069659b8a3f2a6d5177c8/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_452_DarkNinjaPurple1H",
+                    "name": "Ужасающие секуторы",
+                    "description": "Внушите ужас вашим соперникам. Можно достать из украшения на спину «Ужасающий щит», если надеты оба предмета.",
+                    "type": "pickaxe",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/65346f1e401a2537731589e3149a7af3/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/65346f1e401a2537731589e3149a7af3/featured.png",
+                        "background": "https://media.fortniteapi.io/images/65346f1e401a2537731589e3149a7af3/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/65346f1e401a2537731589e3149a7af3/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_849_Athena_Commando_M_DarkEaglePurple",
+            "name": "Ужасающий Предвестник",
+            "description": "Ваша победа вселяет ужас в сердца многих.",
+            "type": "outfit",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 02",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/3e14be7f385d7dcb053ac8da8b6617b3fa5d370e916575744d860d0d87cd9e57",
+            "releaseDate": "2020-09-04",
+            "lastAppearance": "2021-05-01",
+            "interest": 0.9,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_849_Athena_Commando_M_DarkEaglePurple.png",
+            "icon": "https://media.fortniteapi.io/images/d24f4a7afb229f0cd5502f0f0d7071a3/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/d24f4a7afb229f0cd5502f0f0d7071a3/background_full.ru.png",
+            "items": [
+                "cid_849_athena_commando_m_darkeaglepurple",
+                "bid_603_darkeaglepurple_male"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_603_DarkEaglePurple_Male",
+                    "name": "Ужасающий плащ",
+                    "description": "Покрыт ужасом.",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/a5dce07cbcfaad5d1b91c3faee59c9c6/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/a5dce07cbcfaad5d1b91c3faee59c9c6/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/a5dce07cbcfaad5d1b91c3faee59c9c6/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_451_DarkEaglePurple",
+            "name": "Ужасающий оракул",
+            "description": "Лики ужаса.",
+            "type": "pickaxe",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "Panel 02",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/60461deea4aee48384bc06c5548f55b1f6692906a5e54cf688fe272c59924824",
+            "releaseDate": "2020-09-04",
+            "lastAppearance": "2021-05-01",
+            "interest": 0.7,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_451_DarkEaglePurple.png",
+            "icon": "https://media.fortniteapi.io/images/c0516d8b49d7ebe2227254e6b994a293/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/c0516d8b49d7ebe2227254e6b994a293/background_full.ru.png",
+            "items": [
+                "pickaxe_id_451_darkeaglepurple"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_505_Athena_Commando_M_MilitiaMascotBurger",
+            "name": "Сержант Бургер",
+            "description": "Вредная еда.",
+            "type": "outfit",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 03",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/ccbf13a48aff2e915c0e0cfec2f66d88ed0f37fbb40bdfdc4011b1ff88bf1b76",
+            "releaseDate": "2019-08-16",
+            "lastAppearance": "2021-04-25",
+            "interest": 0.64,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_505_Athena_Commando_M_MilitiaMascotBurger.png",
+            "icon": "https://media.fortniteapi.io/images/99f694ba8dc24eabe41934d3cd879896/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/99f694ba8dc24eabe41934d3cd879896/background_full.ru.png",
+            "items": [
+                "cid_505_athena_commando_m_militiamascotburger",
+                "bid_336_mascotmilitiaburger"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_336_MascotMilitiaBurger",
+                    "name": "Еда на вынос",
+                    "description": "Слюнки текут. ",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/7ed2e6b5cceaf7f4a4ac67055426520e/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/7ed2e6b5cceaf7f4a4ac67055426520e/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/7ed2e6b5cceaf7f4a4ac67055426520e/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_506_Athena_Commando_M_MilitiaMascotTomato",
+            "name": "Сержант Помидор ",
+            "description": "Не любит вегетарианцев.",
+            "type": "outfit",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 03",
+            "priority": -7,
+            "banner": "",
+            "offer": "v2:/b75166bcb024853b6e50a93d4eb2f20698d38bc5c484c1de7409f44cab274f90",
+            "releaseDate": "2019-08-16",
+            "lastAppearance": "2021-04-25",
+            "interest": 0.61,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_506_Athena_Commando_M_MilitiaMascotTomato.png",
+            "icon": "https://media.fortniteapi.io/images/e84cb96521b40b7827352accf7633c3a/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/e84cb96521b40b7827352accf7633c3a/background_full.ru.png",
+            "items": [
+                "cid_506_athena_commando_m_militiamascottomato",
+                "bid_337_mascotmilitiatomato"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_337_MascotMilitiaTomato",
+                    "name": "Томатная рация",
+                    "description": "Томатный полевой помощник. ",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/16d4b8428b907fc46ddb9365ee7b6096/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/16d4b8428b907fc46ddb9365ee7b6096/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/16d4b8428b907fc46ddb9365ee7b6096/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_251_MascotMilitiaBurger",
+            "name": "Боевая лопатка",
+            "description": "Хороший инструмент из подручных средств.",
+            "type": "pickaxe",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 03",
+            "priority": -8,
+            "banner": "",
+            "offer": "v2:/af6b50ab5f8f4b6146f48d1a111c37f9727cb01789c370c091366e08999ee64f",
+            "releaseDate": "2019-08-16",
+            "lastAppearance": "2021-04-25",
+            "interest": 0.53,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_251_MascotMilitiaBurger.png",
+            "icon": "https://media.fortniteapi.io/images/d77686bb43b590d125742d26b3f509a2/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/d77686bb43b590d125742d26b3f509a2/background_full.ru.png",
+            "items": [
+                "pickaxe_id_251_mascotmilitiaburger"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_252_MascotMilitiaTomato",
+            "name": "Боевая пиццерезка",
+            "description": "Режет на ровные ломтики.",
+            "type": "pickaxe",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 03",
+            "priority": -9,
+            "banner": "",
+            "offer": "v2:/75c243b0c4e5edc8de4c65706388bb6da49474136676c7789dd9cd9055a312d7",
+            "releaseDate": "2019-08-16",
+            "lastAppearance": "2021-04-25",
+            "interest": 0.49,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_252_MascotMilitiaTomato.png",
+            "icon": "https://media.fortniteapi.io/images/532ec3a15b01bb432b63c4680576bbb2/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/532ec3a15b01bb432b63c4680576bbb2/background_full.ru.png",
+            "items": [
+                "pickaxe_id_252_mascotmilitiatomato"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Architect_Femaleskibundle",
+            "name": "Комплект шкафчика NickEh30",
+            "description": "NickEh30's Locker Bundle",
+            "type": "bundle",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 2100,
+            "priceNoDiscount": 3300,
+            "categories": "Panel 04",
+            "priority": -10,
+            "banner": "",
+            "offer": "v2:/c059c0d3f60c1378911ab84a6b59e0c60a7369bccc159d7db1cdb16737dab9b4",
+            "releaseDate": "2020-11-22",
+            "lastAppearance": "2020-11-23",
+            "interest": 0.65,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Architect_Femaleskibundle.png",
+            "icon": "https://media.fortniteapi.io/images/421d2bab3b7d36f577b24accd455a6e1/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/421d2bab3b7d36f577b24accd455a6e1/background_full.ru.png",
+            "items": [
+                "cid_063_athena_commando_f_skigirl_can",
+                "bid_016_skigirl_can",
+                "pickaxe_id_190_golfclub",
+                "glider_id_175_streetfashionred",
+                "eid_kpopdance01"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_063_Athena_Commando_F_SkiGirl_CAN",
+                    "name": "Мастер фристайла (КАН)",
+                    "description": "Виражи на пути к победе!",
+                    "type": "outfit",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/62ea178-ef2fbd3-05d450a-c8b4d73/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/62ea178-ef2fbd3-05d450a-c8b4d73/featured.png",
+                        "background": "https://media.fortniteapi.io/images/62ea178-ef2fbd3-05d450a-c8b4d73/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/62ea178-ef2fbd3-05d450a-c8b4d73/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "BID_016_SkiGirl_CAN",
+                    "name": "Сумка мастера фристайла (КАН)",
+                    "description": "Рюкзак боевого лыжника.",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/9992ece-e6d6f5f-fb6e29c-be5ec2f/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/9992ece-e6d6f5f-fb6e29c-be5ec2f/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/9992ece-e6d6f5f-fb6e29c-be5ec2f/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_190_GolfClub",
+                    "name": "Айрон",
+                    "description": "Попадает точно в лунку.",
+                    "type": "pickaxe",
+                    "rarity": "uncommon",
+                    "internalRarity": "uncommon",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/featured.png",
+                        "background": "https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_175_StreetFashionRed",
+                    "name": "Полосатик",
+                    "description": "Ваш полосатый друг.",
+                    "type": "glider",
+                    "rarity": "uncommon",
+                    "internalRarity": "uncommon",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4f89f33068f6ba9fb32c4acb6cd1e425/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/4f89f33068f6ba9fb32c4acb6cd1e425/featured.png",
+                        "background": "https://media.fortniteapi.io/images/4f89f33068f6ba9fb32c4acb6cd1e425/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/4f89f33068f6ba9fb32c4acb6cd1e425/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "EID_KPopDance01",
+                    "name": "В самое сердце",
+                    "description": "<3",
+                    "type": "emote",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4263869-0d9c4a8-bd34d13-fbe2280/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/4263869-0d9c4a8-bd34d13-fbe2280/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/4263869-0d9c4a8-bd34d13-fbe2280/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#9092ACFF",
+                "gradiant": {
+                    "start": "#4F4F68FF",
+                    "stop": "#4F4F6800"
+                }
+            }
+        },
+        {
+            "id": "CID_063_Athena_Commando_F_SkiGirl_CAN",
+            "name": "Мастер фристайла (КАН)",
+            "description": "Виражи на пути к победе!",
+            "type": "outfit",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 04",
+            "priority": -11,
+            "banner": "",
+            "offer": "v2:/3a46363d74fb9f49dd1b8739d7d775c1fbc55fa5d65acd9c393487c62efeb429",
+            "releaseDate": "2018-02-09",
+            "lastAppearance": "2021-05-10",
+            "interest": 1.5,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_063_Athena_Commando_F_SkiGirl_CAN.png",
+            "icon": "https://media.fortniteapi.io/images/62ea178-ef2fbd3-05d450a-c8b4d73/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/62ea178-ef2fbd3-05d450a-c8b4d73/background_full.ru.png",
+            "items": [
+                "cid_063_athena_commando_f_skigirl_can",
+                "bid_016_skigirl_can"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_016_SkiGirl_CAN",
+                    "name": "Сумка мастера фристайла (КАН)",
+                    "description": "Рюкзак боевого лыжника.",
+                    "type": "backpack",
+                    "rarity": "epic",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/9992ece-e6d6f5f-fb6e29c-be5ec2f/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/9992ece-e6d6f5f-fb6e29c-be5ec2f/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/9992ece-e6d6f5f-fb6e29c-be5ec2f/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_190_GolfClub",
+            "name": "Айрон",
+            "description": "Попадает точно в лунку.",
+            "type": "pickaxe",
+            "rarity": "uncommon",
+            "internalRarity": "uncommon",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 04",
+            "priority": -12,
+            "banner": "",
+            "offer": "v2:/0668377ebb9c04d01c5869ebb5e85b182cb82854024826bbfd194fb524b19968",
+            "releaseDate": "2019-04-14",
+            "lastAppearance": "2021-06-06",
+            "interest": 4.89,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_190_GolfClub.png",
+            "icon": "https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/0692194-9c5b386-445cf82-2cb484d/background_full.ru.png",
+            "items": [
+                "pickaxe_id_190_golfclub"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Glider_ID_175_StreetFashionRed",
+            "name": "Полосатик",
+            "description": "Ваш полосатый друг.",
+            "type": "glider",
+            "rarity": "uncommon",
+            "internalRarity": "uncommon",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 04",
+            "priority": -13,
+            "banner": "",
+            "offer": "v2:/6240737a3d81386d7e02a91ce6d38d98f946ce73a3c9c5ce514b2805f0acba42",
+            "releaseDate": "2019-10-06",
+            "lastAppearance": "2021-05-31",
+            "interest": 1.02,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Glider_ID_175_StreetFashionRed.png",
+            "icon": "https://media.fortniteapi.io/images/4f89f33068f6ba9fb32c4acb6cd1e425/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/4f89f33068f6ba9fb32c4acb6cd1e425/background_full.ru.png",
+            "items": [
+                "glider_id_175_streetfashionred"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_KPopDance01",
+            "name": "В самое сердце",
+            "description": "<3",
+            "type": "emote",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 04",
+            "priority": -14,
+            "banner": "",
+            "offer": "v2:/a9a4f01aeae118203643cbd1dc4275c4b25baca6f039635d16ba25a1fb56c997",
+            "releaseDate": "2018-07-07",
+            "lastAppearance": "2021-02-16",
+            "interest": 1.97,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_KpopDance01.png",
+            "icon": "https://media.fortniteapi.io/images/4263869-0d9c4a8-bd34d13-fbe2280/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/4263869-0d9c4a8-bd34d13-fbe2280/background_full.ru.png",
+            "items": [
+                "eid_kpopdance01"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        }
+    ],
+    "daily": [
+        {
+            "id": "CID_497_Athena_Commando_F_WildWest",
+            "name": "Прерия",
+            "description": "Свободная, словно степной ветер.",
+            "type": "outfit",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "zDaily 01",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/2126c2d6b2b8c9200bf83ee822b956ffb30239064f8db07df9addd7818435cc4",
+            "releaseDate": "2019-08-06",
+            "lastAppearance": "2021-05-07",
+            "interest": 0.89,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_497_Athena_Commando_F_WildWest.png",
+            "icon": "https://media.fortniteapi.io/images/3c0b8e422b0ae64af261ea0b9b2dacc0/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/3c0b8e422b0ae64af261ea0b9b2dacc0/background_full.ru.png",
+            "items": [
+                "cid_497_athena_commando_f_wildwest",
+                "bid_329_wildwestfemale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_329_WildWestFemale",
+                    "name": "Поклажа",
+                    "description": "Своя ноша не тянет.",
+                    "type": "backpack",
+                    "rarity": "rare",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/75b5f00c2b9866b3323c94f8ab37ab4c/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/75b5f00c2b9866b3323c94f8ab37ab4c/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/75b5f00c2b9866b3323c94f8ab37ab4c/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_456_Athena_Commando_F_Sarong",
+            "name": "Орхидея",
+            "description": "Обезоруживающее обаяние.",
+            "type": "outfit",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "zDaily 02",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/b62c0ba50047bdd0dc821fcab895dbc93d647ccd438967983d7c18ba9f7c0cbc",
+            "releaseDate": "2019-07-04",
+            "lastAppearance": "2021-05-07",
+            "interest": 1.66,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_456_F_Sarong.png",
+            "icon": "https://media.fortniteapi.io/images/567dcaa5145ea4034c21e882d2bcc7b8/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/567dcaa5145ea4034c21e882d2bcc7b8/background_full.ru.png",
+            "items": [
+                "cid_456_athena_commando_f_sarong",
+                "bid_296_sarong"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_296_Sarong",
+                    "name": "Цветочная ракушка",
+                    "description": "Благоухающие морские цветы. ",
+                    "type": "backpack",
+                    "rarity": "rare",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/9a8ed016dae43661d414451f84d01d07/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/9a8ed016dae43661d414451f84d01d07/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/9a8ed016dae43661d414451f84d01d07/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_Confused",
+            "name": "Недоумение",
+            "description": "А что было-то?",
+            "type": "emote",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "zDaily 03",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/d392ea28973ef4eac7ac2d7e1c98cf1a4f8f610da8ce322b40dd24ef36d54a94",
+            "releaseDate": "2018-04-21",
+            "lastAppearance": "2019-07-27",
+            "interest": 1.23,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/1f8a9f7-72b50b3-634e994-1d4ba33/transparent.png",
+            "icon": "https://media.fortniteapi.io/images/1f8a9f7-72b50b3-634e994-1d4ba33/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/1f8a9f7-72b50b3-634e994-1d4ba33/background_full.ru.png",
+            "items": [
+                "eid_confused"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_RichFam",
+            "name": "Запутанная история",
+            "description": "Нет времени объяснять, но я объясню.",
+            "type": "emote",
+            "rarity": "rare",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "zDaily 04",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/b02cdca6cd3553968031fe16247311ea0c47884c0b228756fd69db512dfa3340",
+            "releaseDate": "2020-08-25",
+            "lastAppearance": "2021-05-13",
+            "interest": 1.67,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_RichFam.png",
+            "icon": "https://media.fortniteapi.io/images/73af77b4b8943de0f2580487a04b8507/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/73af77b4b8943de0f2580487a04b8507/background_full.ru.png",
+            "items": [
+                "eid_richfam"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_LlamaBell",
+            "name": "Нужно больше лам!",
+            "description": "Лам никогда не бывает много!",
+            "type": "emote",
+            "rarity": "epic",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "zDaily 05",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/7eeeb357c8219e817e1f0b03dd2ccd35ea57d9dfd3c47f50f8781ccb618b1223",
+            "releaseDate": "2018-08-20",
+            "lastAppearance": "2021-05-10",
+            "interest": 1.03,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_LlamaBell.png",
+            "icon": "https://media.fortniteapi.io/images/0b27bfa-8c7b80b-5812a39-3750e3f/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/0b27bfa-8c7b80b-5812a39-3750e3f/background_full.ru.png",
+            "items": [
+                "eid_llamabell"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_KungFuShadowBoxing",
+            "name": "Бесконтактный бой",
+            "description": "Физическая сила — это прошлый век. ",
+            "type": "emote",
+            "rarity": "uncommon",
+            "internalRarity": "uncommon",
+            "price": 200,
+            "priceNoDiscount": 200,
+            "categories": "zDaily 06",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/b2b4af878b15fb9cb0caec3f7f2b7fadc0d8543fd94fc0978128ade05c3431a2",
+            "releaseDate": "2020-01-27",
+            "lastAppearance": "2021-04-27",
+            "interest": 0.69,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_EID_KungFuShadowBoxing.png",
+            "icon": "https://media.fortniteapi.io/images/c4b1eeed2126b7a18412fd6b8ab68c7b/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/c4b1eeed2126b7a18412fd6b8ab68c7b/background_full.ru.png",
+            "items": [
+                "eid_kungfushadowboxing"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        }
+    ],
+    "specialFeatured": [
+        {
+            "id": "SquishyBundle",
+            "name": "КОМПЛЕКТ MARSHMELLO",
+            "description": "MARSHMELLO BUNDLE",
+            "type": "bundle",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 2300,
+            "priceNoDiscount": 3300,
+            "categories": "Panel 03",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/211ea4139a17add96a8bc6fbe531c173cbf43109aac7bb337179276e60e31360",
+            "releaseDate": "2021-05-29",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.8,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_SquishyBundle.png",
+            "icon": "https://media.fortniteapi.io/images/2b376c364a8b464e722e99497b7481e1/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/2b376c364a8b464e722e99497b7481e1/background_full.ru.png",
+            "items": [
+                "cid_333_athena_commando_m_squishy",
+                "eid_squishydance",
+                "pickaxe_id_249_squishy1h",
+                "glider_id_118_squishy"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_333_Athena_Commando_M_Squishy",
+                    "name": "Marshmello",
+                    "description": "Время зажигать!\r\nМеняет внешний вид: при использовании музыкальных эмоций светится.",
+                    "type": "outfit",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/1abde17-d3ca16d-4a44418-abb3ef2/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/1abde17-d3ca16d-4a44418-abb3ef2/featured.png",
+                        "background": "https://media.fortniteapi.io/images/1abde17-d3ca16d-4a44418-abb3ef2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/1abde17-d3ca16d-4a44418-abb3ef2/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "EID_SquishyDance",
+                    "name": "Зефирная походка",
+                    "description": "Кто зефирней всех на свете?",
+                    "type": "emote",
+                    "rarity": "icon series",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d9143b4-aae6772-e6d1514-ac37a86/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/d9143b4-aae6772-e6d1514-ac37a86/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/d9143b4-aae6772-e6d1514-ac37a86/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_249_Squishy1H",
+                    "name": "Marshmello-молоты",
+                    "description": "There X2 ",
+                    "type": "pickaxe",
+                    "rarity": "icon series",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f697c0c9abdb381b1f843943c4d8caa3/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/f697c0c9abdb381b1f843943c4d8caa3/featured.png",
+                        "background": "https://media.fortniteapi.io/images/f697c0c9abdb381b1f843943c4d8caa3/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f697c0c9abdb381b1f843943c4d8caa3/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_118_Squishy",
+                    "name": "Зефирка",
+                    "description": "Полёт со вкусом.",
+                    "type": "glider",
+                    "rarity": "icon series",
+                    "internalRarity": "uncommon",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/8431dca-90b70f9-06ccbdb-9c5daf4/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/8431dca-90b70f9-06ccbdb-9c5daf4/featured.png",
+                        "background": "https://media.fortniteapi.io/images/8431dca-90b70f9-06ccbdb-9c5daf4/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/8431dca-90b70f9-06ccbdb-9c5daf4/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#9092ABFF",
+                "gradiant": {
+                    "start": "#4F4F69FF",
+                    "stop": "#4F4F6900"
+                }
+            }
+        },
+        {
+            "id": "CID_333_Athena_Commando_M_Squishy",
+            "name": "Marshmello",
+            "description": "Время зажигать!\r\nМеняет внешний вид: при использовании музыкальных эмоций светится.",
+            "type": "outfit",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 03",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/864195f9b7f25326429bd8248b82ae8e05a1d1a9aca60ebd6e7065c30f1cec45",
+            "releaseDate": "2019-02-01",
+            "lastAppearance": "2021-06-12",
+            "interest": 4.07,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_333_Athena_Commando_M_Squishy.png",
+            "icon": "https://media.fortniteapi.io/images/1abde17-d3ca16d-4a44418-abb3ef2/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/1abde17-d3ca16d-4a44418-abb3ef2/background_full.ru.png",
+            "items": [
+                "cid_333_athena_commando_m_squishy"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_249_Squishy1H",
+            "name": "Marshmello-молоты",
+            "description": "There X2 ",
+            "type": "pickaxe",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 03",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/3e3f6dc3977042e62010cde1947363e204d9c32820240decb79c34a54b442a74",
+            "releaseDate": "2019-07-26",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.82,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_249_Squishy1H.png",
+            "icon": "https://media.fortniteapi.io/images/f697c0c9abdb381b1f843943c4d8caa3/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/f697c0c9abdb381b1f843943c4d8caa3/background_full.ru.png",
+            "items": [
+                "pickaxe_id_249_squishy1h"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_SquishyDance",
+            "name": "Зефирная походка",
+            "description": "Кто зефирней всех на свете?",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 03",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/86b4ef5ac35772b564afd25c2737af0358541c68a28fad2094b714308be8809a",
+            "releaseDate": "2019-02-01",
+            "lastAppearance": "2021-06-12",
+            "interest": 5.05,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_EID_SquishyDance.png",
+            "icon": "https://media.fortniteapi.io/images/d9143b4-aae6772-e6d1514-ac37a86/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/d9143b4-aae6772-e6d1514-ac37a86/background_full.ru.png",
+            "items": [
+                "eid_squishydance"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Glider_ID_118_Squishy",
+            "name": "Зефирка",
+            "description": "Полёт со вкусом.",
+            "type": "glider",
+            "rarity": "icon series",
+            "internalRarity": "uncommon",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 03",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/f5562927b18baf7e7f2b4170ef850052792491c3de527ece7788e37e99b9c379",
+            "releaseDate": "2019-02-01",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.94,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Glider_ID_118_Squishy.png",
+            "icon": "https://media.fortniteapi.io/images/8431dca-90b70f9-06ccbdb-9c5daf4/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/8431dca-90b70f9-06ccbdb-9c5daf4/background_full.ru.png",
+            "items": [
+                "glider_id_118_squishy"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "LasagnaBundle",
+            "name": "КОМПЛЕКТ MAJOR LAZER",
+            "description": "MAJOR LAZER BUNDLE",
+            "type": "bundle",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 2400,
+            "priceNoDiscount": 3300,
+            "categories": "Panel 04",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/97e909b0348d8c3fc2680480e390446ed1eb8e08ac3d084c56417ea63fd7519c",
+            "releaseDate": "2020-05-02",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.43,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_LasagnaBundle.png",
+            "icon": "https://media.fortniteapi.io/images/38cabf42cdf40b2280c659151aad0e2b/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/38cabf42cdf40b2280c659151aad0e2b/background_full.ru.png",
+            "items": [
+                "cid_474_athena_commando_m_lasagna",
+                "bid_310_lasagna",
+                "pickaxe_id_235_lasagna",
+                "eid_lasagnadance",
+                "musicpack_026_lasagnachill",
+                "musicpack_027_lasagnadope"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_474_Athena_Commando_M_Lasagna",
+                    "name": "Major Lazer",
+                    "description": "Peace is the mission.",
+                    "type": "outfit",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f401c40579e4d04f37b04cc1feb7c7d8/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/f401c40579e4d04f37b04cc1feb7c7d8/featured.png",
+                        "background": "https://media.fortniteapi.io/images/f401c40579e4d04f37b04cc1feb7c7d8/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f401c40579e4d04f37b04cc1feb7c7d8/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "BID_310_Lasagna",
+                    "name": "Лазерные крылья",
+                    "description": "Free the universe.",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/505062294b6237dfd11896720614e950/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/505062294b6237dfd11896720614e950/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/505062294b6237dfd11896720614e950/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_235_Lasagna",
+                    "name": "Лазерная секира",
+                    "description": "Music is the weapon.",
+                    "type": "pickaxe",
+                    "rarity": "icon series",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/b7c7975b0505dee9c6119f7616ae2d2e/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/b7c7975b0505dee9c6119f7616ae2d2e/featured.png",
+                        "background": "https://media.fortniteapi.io/images/b7c7975b0505dee9c6119f7616ae2d2e/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/b7c7975b0505dee9c6119f7616ae2d2e/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "EID_LasagnaDance",
+                    "name": "Пистолеты",
+                    "description": "Попадает в сердце, западает в душу.",
+                    "type": "emote",
+                    "rarity": "icon series",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/192fec747d83555d82781e20d14bef35/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/192fec747d83555d82781e20d14bef35/featured.png",
+                        "background": "https://media.fortniteapi.io/images/192fec747d83555d82781e20d14bef35/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/192fec747d83555d82781e20d14bef35/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "MusicPack_026_LasagnaChill",
+                    "name": "Спокойный ремикс",
+                    "description": "Lazerism Remix от Major Lazer.",
+                    "type": "music",
+                    "rarity": "icon series",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f77f57eadf1844a24f062018207a49af/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/f77f57eadf1844a24f062018207a49af/featured.png",
+                        "background": "https://media.fortniteapi.io/images/f77f57eadf1844a24f062018207a49af/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f77f57eadf1844a24f062018207a49af/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "MusicPack_027_LasagnaDope",
+                    "name": "Бодрый ремикс",
+                    "description": "Lazerism Remix от Major Lazer.",
+                    "type": "music",
+                    "rarity": "icon series",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/e212e1fdd1bdb75d4836c35c73f639de/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/e212e1fdd1bdb75d4836c35c73f639de/featured.png",
+                        "background": "https://media.fortniteapi.io/images/e212e1fdd1bdb75d4836c35c73f639de/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/e212e1fdd1bdb75d4836c35c73f639de/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#9092ABFF",
+                "gradiant": {
+                    "start": "#4F4F69FF",
+                    "stop": "#4F4F6900"
+                }
+            }
+        },
+        {
+            "id": "CID_474_Athena_Commando_M_Lasagna",
+            "name": "Major Lazer",
+            "description": "Peace is the mission.",
+            "type": "outfit",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 1600,
+            "priceNoDiscount": 1600,
+            "categories": "Panel 04",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/c4607e0c434beeaa697ad668bab282980495a208d59f01ddce1016e291718805",
+            "releaseDate": "2019-08-23",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.56,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_474_Athena_Commando_M_Lasagna.png",
+            "icon": "https://media.fortniteapi.io/images/f401c40579e4d04f37b04cc1feb7c7d8/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/f401c40579e4d04f37b04cc1feb7c7d8/background_full.ru.png",
+            "items": [
+                "cid_474_athena_commando_m_lasagna",
+                "bid_310_lasagna"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_310_Lasagna",
+                    "name": "Лазерные крылья",
+                    "description": "Free the universe.",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/505062294b6237dfd11896720614e950/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/505062294b6237dfd11896720614e950/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/505062294b6237dfd11896720614e950/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_235_Lasagna",
+            "name": "Лазерная секира",
+            "description": "Music is the weapon.",
+            "type": "pickaxe",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 04",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/67aec4b11f37af70e15e3f8b2426775cdddc79e9467ec720e9520979c857a247",
+            "releaseDate": "2019-08-23",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.38,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_235_Lasagna.png",
+            "icon": "https://media.fortniteapi.io/images/b7c7975b0505dee9c6119f7616ae2d2e/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/b7c7975b0505dee9c6119f7616ae2d2e/background_full.ru.png",
+            "items": [
+                "pickaxe_id_235_lasagna"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_LasagnaDance",
+            "name": "Пистолеты",
+            "description": "Попадает в сердце, западает в душу.",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 04",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/23ad9ebd681b6d0b4b396bc0462393982b8448cf2aa93c777ad4fe1a8a40087c",
+            "releaseDate": "2019-08-23",
+            "lastAppearance": "2021-06-12",
+            "interest": 3.83,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_EID_LasagnaDance.png",
+            "icon": "https://media.fortniteapi.io/images/192fec747d83555d82781e20d14bef35/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/192fec747d83555d82781e20d14bef35/background_full.ru.png",
+            "items": [
+                "eid_lasagnadance"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "MusicPack_026_LasagnaChill",
+            "name": "Спокойный ремикс",
+            "description": "Lazerism Remix от Major Lazer.",
+            "type": "music",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 200,
+            "priceNoDiscount": 200,
+            "categories": "Panel 04",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/0904c15a3f7b80e467103ae6767e511da79969b4211afe3cb68d761bc4b81946",
+            "releaseDate": "2019-08-23",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.24,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_MusicPack_026_LasagnaChill.png",
+            "icon": "https://media.fortniteapi.io/images/f77f57eadf1844a24f062018207a49af/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/f77f57eadf1844a24f062018207a49af/background_full.ru.png",
+            "items": [
+                "musicpack_026_lasagnachill"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "MusicPack_027_LasagnaDope",
+            "name": "Бодрый ремикс",
+            "description": "Lazerism Remix от Major Lazer.",
+            "type": "music",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 200,
+            "priceNoDiscount": 200,
+            "categories": "Panel 05",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/b4074e6e63913606bde59e38bc03096992eac9572e3a16331b34cd7b5ef3ce52",
+            "releaseDate": "2019-08-23",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.19,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_MusicPack_027_LasagnaDope.png",
+            "icon": "https://media.fortniteapi.io/images/e212e1fdd1bdb75d4836c35c73f639de/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/e212e1fdd1bdb75d4836c35c73f639de/background_full.ru.png",
+            "items": [
+                "musicpack_027_lasagnadope"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "KeeperDreamBundle",
+            "name": "НАБОР BTS: DYNAMITE",
+            "description": "",
+            "type": "bundle",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 06",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/d47911fe6f32a7e878c216010aabb22535aa99be6d1bf9f07bd9372e2529434b",
+            "releaseDate": "2020-09-24",
+            "lastAppearance": "2021-06-12",
+            "interest": 4.4,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_KeeperDreamBundle.png",
+            "icon": "https://media.fortniteapi.io/images/5b81a21e67ac75adc7a86daa47b89910/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/5b81a21e67ac75adc7a86daa47b89910/background_full.ru.png",
+            "items": [
+                "eid_keeperdreamhook",
+                "eid_keeperdreamchorus"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "EID_KeeperDreamHook",
+                    "name": "It's Dynamite!",
+                    "description": "Зажигаем!",
+                    "type": "emote",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/0c8f602a3fd2383f7ed489eb10702cc3/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/0c8f602a3fd2383f7ed489eb10702cc3/featured.png",
+                        "background": "https://media.fortniteapi.io/images/0c8f602a3fd2383f7ed489eb10702cc3/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/0c8f602a3fd2383f7ed489eb10702cc3/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "EID_KeeperDreamChorus",
+                    "name": "I'm Diamond",
+                    "description": "Я сияю, словно бриллиант!",
+                    "type": "emote",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/6237afddb29adae3fdb7528219a0c5a6/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/6237afddb29adae3fdb7528219a0c5a6/featured.png",
+                        "background": "https://media.fortniteapi.io/images/6237afddb29adae3fdb7528219a0c5a6/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/6237afddb29adae3fdb7528219a0c5a6/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#570090FF",
+                "gradiant": {
+                    "start": "#020003FF",
+                    "stop": "#02000300"
+                }
+            }
+        },
+        {
+            "id": "EID_Psychic_7SO2Z",
+            "name": "Gangnam Style",
+            "description": "Сели и поехали!",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 06",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/4c3b8ebd1405bdc0160df2ec91d75b513a1d33008ef02b2168d3931b3cf51494",
+            "releaseDate": "2021-01-29",
+            "lastAppearance": "2021-06-12",
+            "interest": 3.92,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_Psychic_7SO2Z.png",
+            "icon": "https://media.fortniteapi.io/images/48a79964515ee2231749eb826b17522f/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/48a79964515ee2231749eb826b17522f/background_full.ru.png",
+            "items": [
+                "eid_psychic_7so2z"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_LetsBegin",
+            "name": "Не начинай",
+            "description": "У меня всё хорошо.",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 06",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/81e2ead569147c51e520adfc8168d8d84111e32ca0703899ffecffb415c979d4",
+            "releaseDate": "2021-01-03",
+            "lastAppearance": "2021-06-12",
+            "interest": 4.46,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_LetsBegin.png",
+            "icon": "https://media.fortniteapi.io/images/c188a612d39df61ee3f04ac725771078/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/c188a612d39df61ee3f04ac725771078/background_full.ru.png",
+            "items": [
+                "eid_letsbegin"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_Feral",
+            "name": "Savage",
+            "description": "Попробуй бросить мне вызов!",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 06",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/7deb8b3d8a3de595b293285643fb228e6b178182734e83c1d194c143be187947",
+            "releaseDate": "2020-12-26",
+            "lastAppearance": "2021-06-12",
+            "interest": 4.41,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_Feral.png",
+            "icon": "https://media.fortniteapi.io/images/c6c3c2749a0e82fce0b4b6d91521a12e/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/c6c3c2749a0e82fce0b4b6d91521a12e/background_full.ru.png",
+            "items": [
+                "eid_feral"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_SandwichBop",
+            "name": "Go Mufasa",
+            "description": "Незаконно так здорово танцевать!",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 06",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/e2cf0aabb79bdaf063af8ce94d79afaf87b33cd00c683d52d7b29661fa682c39",
+            "releaseDate": "2020-11-07",
+            "lastAppearance": "2021-06-12",
+            "interest": 4.57,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_SandwichBop.png",
+            "icon": "https://media.fortniteapi.io/images/c6f3bc057f12f7749bc897b22573a51b/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/c6f3bc057f12f7749bc897b22573a51b/background_full.ru.png",
+            "items": [
+                "eid_sandwichbop"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_JanuaryBop",
+            "name": "Jabba Switchway",
+            "description": "Улавливаете ритм?",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 07",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/0dc10f658772c8d211a634e49888de11fe249d3a9a10b316a8af2dc2457c66ad",
+            "releaseDate": "2020-11-07",
+            "lastAppearance": "2021-06-12",
+            "interest": 5.76,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_JanuaryBop.png",
+            "icon": "https://media.fortniteapi.io/images/0d96ac627dacc6ebe1c8bb0ec741d922/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/0d96ac627dacc6ebe1c8bb0ec741d922/background_full.ru.png",
+            "items": [
+                "eid_januarybop"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_GasStation_104FQ",
+            "name": "Pull Up",
+            "description": "Готовы стать рок-звездой?",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 07",
+            "priority": -7,
+            "banner": "",
+            "offer": "v2:/2aa30176c7dc80c052e3aac21efda96230d759eff52e725baff46c46d6b820b5",
+            "releaseDate": "2021-02-28",
+            "lastAppearance": "2021-06-12",
+            "interest": 4.81,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_GasStation_104FQ.png",
+            "icon": "https://media.fortniteapi.io/images/af064d2ad59e0357443c89de12249a5a/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/af064d2ad59e0357443c89de12249a5a/background_full.ru.png",
+            "items": [
+                "eid_gasstation_104fq"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_AutumnTea",
+            "name": "Blinding Lights",
+            "description": "Так просто, но так эффектно.",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 07",
+            "priority": -8,
+            "banner": "",
+            "offer": "v2:/9edeb6f9f261e0958f2061d9d1e02f7f16b22a94558db4e26f7723d714506119",
+            "releaseDate": "2020-10-24",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.86,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_AutumnTeat.png",
+            "icon": "https://media.fortniteapi.io/images/f9ff5619bee3489602b6b3f27c3a0e18/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/f9ff5619bee3489602b6b3f27c3a0e18/background_full.ru.png",
+            "items": [
+                "eid_autumntea"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_JustHome",
+            "name": "Renegade",
+            "description": "Самый модный танец.",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 07",
+            "priority": -9,
+            "banner": "",
+            "offer": "v2:/b68195e1dbaf0d61bbf9b059ea12f0a05904544b9071d8c8b1361f7486d03787",
+            "releaseDate": "2020-07-18",
+            "lastAppearance": "2021-06-12",
+            "interest": 3.69,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_JustHome.png",
+            "icon": "https://media.fortniteapi.io/images/add898e5a8f0bc2fa9afb21435603869/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/add898e5a8f0bc2fa9afb21435603869/background_full.ru.png",
+            "items": [
+                "eid_justhome"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_JulyBooks",
+            "name": "Out West",
+            "description": "Выше руки, выше!",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 07",
+            "priority": -10,
+            "banner": "",
+            "offer": "v2:/6ee7e8fc859be0ba28de97f8c90483a5aea286475fe7f4089bebc89b10844e4c",
+            "releaseDate": "2020-08-08",
+            "lastAppearance": "2021-06-12",
+            "interest": 4.31,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_JulyBooks.png",
+            "icon": "https://media.fortniteapi.io/images/35ae6774c3bd8e36650521f655330981/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/35ae6774c3bd8e36650521f655330981/background_full.ru.png",
+            "items": [
+                "eid_julybooks"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_ArtGiant",
+            "name": "Toosie Slide",
+            "description": "Плавно и аккуратно.",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 08",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/e585253ffcadc7ebf06aa85592f55307084733e51000fd7612aac9210b4d4af9",
+            "releaseDate": "2020-05-30",
+            "lastAppearance": "2021-06-12",
+            "interest": 3.89,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_EID_ArtGiant.png",
+            "icon": "https://media.fortniteapi.io/images/1a4c88e7fd39f066d02ecbd87ce5f61a/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/1a4c88e7fd39f066d02ecbd87ce5f61a/background_full.ru.png",
+            "items": [
+                "eid_artgiant"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_NeverGonna",
+            "name": "Рикролл",
+            "description": "Никогда не бросит. ",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 08",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/b2266ec101a5a4c52941a6bc347554939c111ef21e27fb90c786d87d9cbe75d3",
+            "releaseDate": "2020-02-15",
+            "lastAppearance": "2021-06-12",
+            "interest": 3.34,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_EID_NeverGonna.png",
+            "icon": "https://media.fortniteapi.io/images/59b3fa0f2b29b895bf43d775be02412a/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/59b3fa0f2b29b895bf43d775be02412a/background_full.ru.png",
+            "items": [
+                "eid_nevergonna"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_HotPink",
+            "name": "Say So",
+            "description": "Танцуйте, описывая круги.",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 08",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/41d84c339b0f1cc91076c50a282c62520e89a4a6cb6924aa29bd57d3310952bb",
+            "releaseDate": "2020-09-05",
+            "lastAppearance": "2021-06-12",
+            "interest": 4.39,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_HotPink.png",
+            "icon": "https://media.fortniteapi.io/images/9a32b781a0dc739666d4c2fc44bb9f85/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/9a32b781a0dc739666d4c2fc44bb9f85/background_full.ru.png",
+            "items": [
+                "eid_hotpink"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_TwistEternity",
+            "name": "Last Forever",
+            "description": "Кто сказал, что вечной любви не бывает?",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 08",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/032a36dbedc728c51bd967eb46c9b19e4ec8853fcdf1f058eedcf1589cc79dac",
+            "releaseDate": "2020-09-19",
+            "lastAppearance": "2021-06-12",
+            "interest": 5.41,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_TwistEternity.png",
+            "icon": "https://media.fortniteapi.io/images/4ab23821335a9a24196820627600447b/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/4ab23821335a9a24196820627600447b/background_full.ru.png",
+            "items": [
+                "eid_twisteternity"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_TwistDaytona",
+            "name": "Ролли",
+            "description": "Крутизна в комплект не входит.",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 08",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/19d96a7466680bb27212e875660cb9ba7e99feff7bad7403221f852166507ec9",
+            "releaseDate": "2020-09-19",
+            "lastAppearance": "2021-06-12",
+            "interest": 5.22,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_TwistDaytona.png",
+            "icon": "https://media.fortniteapi.io/images/664dac02427454c076fabc8598008888/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/664dac02427454c076fabc8598008888/background_full.ru.png",
+            "items": [
+                "eid_twistdaytona"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_DontSneeze",
+            "name": "Smeeze",
+            "description": "Прыгай веселей!",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 09",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/f84608ee066703fac26fff9427380b9493b9343f7f82c9e20cb43782dd6a4d67",
+            "releaseDate": "2020-11-29",
+            "lastAppearance": "2021-06-12",
+            "interest": 3.22,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_DontSneeze.png",
+            "icon": "https://media.fortniteapi.io/images/6d75067a28ea414a05b1b3e8bb3457ac/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/6d75067a28ea414a05b1b3e8bb3457ac/background_full.ru.png",
+            "items": [
+                "eid_dontsneeze"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_ModerateAmount_9LUN1",
+            "name": "Wanna See Me",
+            "description": "Танец самовыражения.",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 09",
+            "priority": -7,
+            "banner": "",
+            "offer": "v2:/baa31c950a621faf9b41d5ae1dec3458efd999abf5a32987304899db314f67c6",
+            "releaseDate": "2021-02-06",
+            "lastAppearance": "2021-06-12",
+            "interest": 3.9,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_ModerateAmount_9LUN1.png",
+            "icon": "https://media.fortniteapi.io/images/127279264a0c40b17ae14e61c0995747/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/127279264a0c40b17ae14e61c0995747/background_full.ru.png",
+            "items": [
+                "eid_moderateamount_9lun1"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_Martian_SK4J6",
+            "name": "Leave The Door Open",
+            "description": "Музыка: Silk Sonic (Bruno Mars и Anderson .Paak). Хореография: Bruno Mars.",
+            "type": "emote",
+            "rarity": "icon series",
+            "internalRarity": "rare",
+            "price": 500,
+            "priceNoDiscount": 500,
+            "categories": "Panel 09",
+            "priority": -8,
+            "banner": "",
+            "offer": "v2:/6f9b93b373693bdd7ef70f03ad4a0300295eb367a22418fd8dd2a2fe26f74719",
+            "releaseDate": "2021-04-03",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.65,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_Martian_SK4J6.png",
+            "icon": "https://media.fortniteapi.io/images/0eebae6991fe65c677edf274e1206e3c/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/0eebae6991fe65c677edf274e1206e3c/background_full.ru.png",
+            "items": [
+                "eid_martian_sk4j6"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Lasso_Bundle",
+            "name": "КОМПЛЕКТ «КЕЙН И РОЙС»",
+            "description": "KANE & REUS BUNDLE",
+            "type": "bundle",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 2300,
+            "priceNoDiscount": 3200,
+            "categories": "Panel 10",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/15f45ea706a26b44075e7307871fb3f84682379ebf419c8d1b947318bfc39d01",
+            "releaseDate": "2021-06-12",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.44,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Lasso_Bundle.png",
+            "icon": "https://media.fortniteapi.io/images/3ca7ce5eea9f3378b66b1dd691578508/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/3ca7ce5eea9f3378b66b1dd691578508/background_full.ru.png",
+            "items": [
+                "cid_a_107_athena_commando_m_lasso_jhza3",
+                "bid_771_lasso_zn4va",
+                "cid_a_108_athena_commando_m_lassopolo_8gam0",
+                "bid_772_lasso_polo_bl4we"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_107_Athena_Commando_M_Lasso_JHZA3",
+                    "name": "Гарри Кейн",
+                    "description": "Верьте в себя и идите к своей цели.",
+                    "type": "outfit",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/c33b8e40135647076c249c23baa9efe0/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/c33b8e40135647076c249c23baa9efe0/featured.png",
+                        "background": "https://media.fortniteapi.io/images/c33b8e40135647076c249c23baa9efe0/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/c33b8e40135647076c249c23baa9efe0/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "BID_771_Lasso_ZN4VA",
+                    "name": "Вихревой поток",
+                    "description": "Компактный вихрь.",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/42d73621110f27830835143236ec6147/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/42d73621110f27830835143236ec6147/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/42d73621110f27830835143236ec6147/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "CID_A_108_Athena_Commando_M_LassoPolo_8GAM0",
+                    "name": "Марко Ройс",
+                    "description": "Нет пределов.",
+                    "type": "outfit",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/8db96aaf61704eaa6f4399b7751ad16a/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/8db96aaf61704eaa6f4399b7751ad16a/featured.png",
+                        "background": "https://media.fortniteapi.io/images/8db96aaf61704eaa6f4399b7751ad16a/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/8db96aaf61704eaa6f4399b7751ad16a/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "BID_772_Lasso_Polo_BL4WE",
+                    "name": "Игровой набор",
+                    "description": "Пора сыграть!",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/07fc1d38f013bc826df1ba117ab7c253/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/07fc1d38f013bc826df1ba117ab7c253/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/07fc1d38f013bc826df1ba117ab7c253/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_A_107_Athena_Commando_M_Lasso_JHZA3",
+            "name": "Гарри Кейн",
+            "description": "Верьте в себя и идите к своей цели.",
+            "type": "outfit",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 1600,
+            "priceNoDiscount": 1600,
+            "categories": "Panel 10",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/36eaf4b7cb7c9e7d643c46d4d502c4e6d2c14079020e2c1fe703ff807fea04b8",
+            "releaseDate": "2021-06-12",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.05,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_A_107_M_Lasso.png",
+            "icon": "https://media.fortniteapi.io/images/c33b8e40135647076c249c23baa9efe0/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/c33b8e40135647076c249c23baa9efe0/background_full.ru.png",
+            "items": [
+                "cid_a_107_athena_commando_m_lasso_jhza3",
+                "bid_771_lasso_zn4va"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_771_Lasso_ZN4VA",
+                    "name": "Вихревой поток",
+                    "description": "Компактный вихрь.",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/42d73621110f27830835143236ec6147/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/42d73621110f27830835143236ec6147/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/42d73621110f27830835143236ec6147/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_A_108_Athena_Commando_M_LassoPolo_8GAM0",
+            "name": "Марко Ройс",
+            "description": "Нет пределов.",
+            "type": "outfit",
+            "rarity": "icon series",
+            "internalRarity": "epic",
+            "price": 1600,
+            "priceNoDiscount": 1600,
+            "categories": "Panel 10",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/60048e27b741b17af68579f9878c8b1251627c04cca374d071a03a5f4927f038",
+            "releaseDate": "2021-06-12",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.84,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_A_108_M_LassoPolo.png",
+            "icon": "https://media.fortniteapi.io/images/8db96aaf61704eaa6f4399b7751ad16a/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/8db96aaf61704eaa6f4399b7751ad16a/background_full.ru.png",
+            "items": [
+                "cid_a_108_athena_commando_m_lassopolo_8gam0",
+                "bid_772_lasso_polo_bl4we"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_772_Lasso_Polo_BL4WE",
+                    "name": "Игровой набор",
+                    "description": "Пора сыграть!",
+                    "type": "backpack",
+                    "rarity": "icon series",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/07fc1d38f013bc826df1ba117ab7c253/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/07fc1d38f013bc826df1ba117ab7c253/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/07fc1d38f013bc826df1ba117ab7c253/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "GrimMaleBundle",
+            "name": "КОМПЛЕКТ «ДЕТСТРОУК ИЗ ЭПИЦЕНТРА»",
+            "description": "DEATHSTROKE ZERO BUNDLE",
+            "type": "bundle",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 2000,
+            "priceNoDiscount": 2600,
+            "categories": "Panel 11",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/aeb0eadaf1d6f7c06914992ab6fdfa603055dcf18c63d0f56e561af7ae048945",
+            "releaseDate": "2021-06-02",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.28,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_GrimMaleBundle.png",
+            "icon": "https://media.fortniteapi.io/images/062536f1ccdaead12898b4f656599e14/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/062536f1ccdaead12898b4f656599e14/background_full.ru.png",
+            "items": [
+                "cid_a_103_athena_commando_m_grim_vm52m",
+                "bid_768_grim_qr2q2",
+                "pickaxe_id_605_grimmale_8gt61",
+                "glider_id_292_grimmale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_103_Athena_Commando_M_Grim_VM52M",
+                    "name": "Десстроук из Эпицентра",
+                    "description": "Я Десстроук. Терминатор.",
+                    "type": "outfit",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/e9160a0098232217de7121ee78209f64/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/e9160a0098232217de7121ee78209f64/featured.png",
+                        "background": "https://media.fortniteapi.io/images/e9160a0098232217de7121ee78209f64/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/e9160a0098232217de7121ee78209f64/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "BID_768_Grim_QR2Q2",
+                    "name": "Катаны Десстроука",
+                    "description": "Оставляют уникальный СЛЕЙД.",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4bc4356e02a4d7c43cada0106017e35a/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/4bc4356e02a4d7c43cada0106017e35a/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/4bc4356e02a4d7c43cada0106017e35a/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_605_GrimMale_8GT61",
+                    "name": "Катаны Десстроука",
+                    "description": "Оставляют уникальный СЛЕЙД.",
+                    "type": "pickaxe",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/268070ce8aaffc94374e07c33a856186/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/268070ce8aaffc94374e07c33a856186/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/268070ce8aaffc94374e07c33a856186/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_292_GrimMale",
+                    "name": "Разрушитель Детстроука",
+                    "description": "Уничтожайте всех с высоты.",
+                    "type": "glider",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4c89e61b4be39e176a1ef282c4dbff50/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/4c89e61b4be39e176a1ef282c4dbff50/featured.png",
+                        "background": "https://media.fortniteapi.io/images/4c89e61b4be39e176a1ef282c4dbff50/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/4c89e61b4be39e176a1ef282c4dbff50/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_A_103_Athena_Commando_M_Grim_VM52M",
+            "name": "Десстроук из Эпицентра",
+            "description": "Я Десстроук. Терминатор.",
+            "type": "outfit",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1800,
+            "priceNoDiscount": 1800,
+            "categories": "Panel 11",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/69eb7d2166459096ec8fc69d03dae722fe9a33ff67db9973ab9aa3e3156ecf71",
+            "releaseDate": "2021-06-02",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.71,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_A_103_M_Grim.png",
+            "icon": "https://media.fortniteapi.io/images/e9160a0098232217de7121ee78209f64/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/e9160a0098232217de7121ee78209f64/background_full.ru.png",
+            "items": [
+                "cid_a_103_athena_commando_m_grim_vm52m",
+                "bid_768_grim_qr2q2",
+                "pickaxe_id_605_grimmale_8gt61"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_768_Grim_QR2Q2",
+                    "name": "Катаны Десстроука",
+                    "description": "Оставляют уникальный СЛЕЙД.",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4bc4356e02a4d7c43cada0106017e35a/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/4bc4356e02a4d7c43cada0106017e35a/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/4bc4356e02a4d7c43cada0106017e35a/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_605_GrimMale_8GT61",
+                    "name": "Катаны Десстроука",
+                    "description": "Оставляют уникальный СЛЕЙД.",
+                    "type": "pickaxe",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/268070ce8aaffc94374e07c33a856186/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/268070ce8aaffc94374e07c33a856186/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/268070ce8aaffc94374e07c33a856186/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Glider_ID_292_GrimMale",
+            "name": "Разрушитель Детстроука",
+            "description": "Уничтожайте всех с высоты.",
+            "type": "glider",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 11",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/2c1e8fc15d10fece8c10811a7595d280f8d99101051c5b1273319d423ccde3c8",
+            "releaseDate": "2021-06-02",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.28,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/Glider_ID_292_GrimMale.png",
+            "icon": "https://media.fortniteapi.io/images/4c89e61b4be39e176a1ef282c4dbff50/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/4c89e61b4be39e176a1ef282c4dbff50/background_full.ru.png",
+            "items": [
+                "glider_id_292_grimmale"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "LollipopBundle",
+            "name": "КОМПЛЕКТ ХАРЛИ КВИНН",
+            "description": "HARLEY QUINN BUNDLE",
+            "type": "bundle",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 2000,
+            "priceNoDiscount": 3100,
+            "categories": "Panel 12",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/9b31c1f49e02560af8c5dbc482d6bea32bf96947e6508106a14c0ce523cd5a45",
+            "releaseDate": "2020-08-15",
+            "lastAppearance": "2021-06-12",
+            "interest": 3.75,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_LollipopBundle.png",
+            "icon": "https://media.fortniteapi.io/images/d3dddb32dbfdcfc324fc8a0d9630f7aa/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/d3dddb32dbfdcfc324fc8a0d9630f7aa/background_full.ru.png",
+            "items": [
+                "cid_704_athena_commando_f_lollipoptrickster",
+                "pickaxe_id_362_lollipopfemale",
+                "pickaxe_id_363_lollipoptricksterfemale",
+                "bundleschedule_styles_lollipop"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_704_Athena_Commando_F_LollipopTrickster",
+                    "name": "Харли Квинн",
+                    "description": "Хаос — это так весело!",
+                    "type": "outfit",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/featured.png",
+                        "background": "https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_362_LollipopFemale",
+                    "name": "Молот Харли",
+                    "description": "Поставьте врага под удар.",
+                    "type": "pickaxe",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/090cd7cb26ef80eb3ee797a1ee78078f/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/090cd7cb26ef80eb3ee797a1ee78078f/featured.png",
+                        "background": "https://media.fortniteapi.io/images/090cd7cb26ef80eb3ee797a1ee78078f/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/090cd7cb26ef80eb3ee797a1ee78078f/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_363_LollipopTricksterFemale",
+                    "name": "Бита Харли",
+                    "description": "Нет, она не для бейсбола.",
+                    "type": "pickaxe",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/featured.png",
+                        "background": "https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#9092ABFF",
+                "gradiant": {
+                    "start": "#4F4F69FF",
+                    "stop": "#4F4F6900"
+                }
+            }
+        },
+        {
+            "id": "CID_704_Athena_Commando_F_LollipopTrickster",
+            "name": "Харли Квинн",
+            "description": "Хаос — это так весело!",
+            "type": "outfit",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 12",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/abe68f9068a516119b851c9c27bf9628587ad847c72ad45b1009c3aa0898a8f3",
+            "releaseDate": "2020-02-07",
+            "lastAppearance": "2021-06-12",
+            "interest": 5.01,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_704_Athena_Commando_F_LollipopTrickster.png",
+            "icon": "https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/1ac9c1fbd6c3ffa94a38d1037e4c0156/background_full.ru.png",
+            "items": [
+                "cid_704_athena_commando_f_lollipoptrickster",
+                "bundleschedule_styles_lollipop"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_363_LollipopTricksterFemale",
+            "name": "Бита Харли",
+            "description": "Нет, она не для бейсбола.",
+            "type": "pickaxe",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 12",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/4f462a49aa3b4324d3424d2262fffbbf7877a1d7c531cb52f0538bd22dabbb54",
+            "releaseDate": "2020-02-07",
+            "lastAppearance": "2021-06-12",
+            "interest": 10,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_363_LollipopTricksterFemale.png",
+            "icon": "https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/6fd6c8c77fe3da8f776952dd8171570b/background_full.ru.png",
+            "items": [
+                "pickaxe_id_363_lollipoptricksterfemale"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_362_LollipopFemale",
+            "name": "Молот Харли",
+            "description": "Поставьте врага под удар.",
+            "type": "pickaxe",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 12",
+            "priority": -7,
+            "banner": "",
+            "offer": "v2:/d9b66aa0ec76ff7cecfe9e6bb14a4e63dd503cd0cb70785e70d5bcf03349217d",
+            "releaseDate": "2020-02-07",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.29,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_362_LollipopFemale.png",
+            "icon": "https://media.fortniteapi.io/images/090cd7cb26ef80eb3ee797a1ee78078f/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/090cd7cb26ef80eb3ee797a1ee78078f/background_full.ru.png",
+            "items": [
+                "pickaxe_id_362_lollipopfemale"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "TarBundle",
+            "name": "Комплект Флэша",
+            "description": "The Flash Bundle",
+            "type": "bundle",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 2200,
+            "priceNoDiscount": 3100,
+            "categories": "Panel 13",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/95cc7a87cefe44a381131e073f1c0b85c13252b40bd73185b6c70083502c2b4e",
+            "releaseDate": "2021-02-14",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.91,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_TarBundle.png",
+            "icon": "https://media.fortniteapi.io/images/bd0b75733979a9d145cb3ab0995d52be/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/bd0b75733979a9d145cb3ab0995d52be/background_full.ru.png",
+            "items": [
+                "cid_a_010_athena_commando_m_tar_46fmc",
+                "bid_586_tar_dijgh",
+                "pickaxe_id_548_tarmale_8x3by",
+                "eid_tar_s9yve",
+                "lsid_273_tar_itj9s"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_010_Athena_Commando_M_Tar_46FMC",
+                    "name": "Флэш",
+                    "description": "Барри Аллен, самый быстрый человек на Земле.",
+                    "type": "outfit",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/25177d43b7f6e040ee6d50a6b555454c/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/25177d43b7f6e040ee6d50a6b555454c/featured.png",
+                        "background": "https://media.fortniteapi.io/images/25177d43b7f6e040ee6d50a6b555454c/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/25177d43b7f6e040ee6d50a6b555454c/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "BID_586_Tar_DIJGH",
+                    "name": "Сила скорости",
+                    "description": "Энергетическое поле, которое наделяет всех бегунов силой.",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/8f0f2f7de31fe75d9884e3d6d1eef0a3/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/8f0f2f7de31fe75d9884e3d6d1eef0a3/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/8f0f2f7de31fe75d9884e3d6d1eef0a3/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_548_TarMale_8X3BY",
+                    "name": "Векторы скорости",
+                    "description": "Физическое воплощение силы Алого Бегуна.",
+                    "type": "pickaxe",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/6611dd19380b075ae1371733defd9b3e/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/6611dd19380b075ae1371733defd9b3e/featured.png",
+                        "background": "https://media.fortniteapi.io/images/6611dd19380b075ae1371733defd9b3e/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/6611dd19380b075ae1371733defd9b3e/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "EID_Tar_S9YVE",
+                    "name": "На скорую руку",
+                    "description": "Перекус со скоростью света.",
+                    "type": "emote",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/dd14e89fe1776c8a324881345147f069/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/dd14e89fe1776c8a324881345147f069/featured.png",
+                        "background": "https://media.fortniteapi.io/images/dd14e89fe1776c8a324881345147f069/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/dd14e89fe1776c8a324881345147f069/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "LSID_273_Tar_ITJ9S",
+                    "name": "Меня зовут Барри Аллен.",
+                    "description": "Путешественник по мультивселенной.",
+                    "type": "loadingscreen",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/88dc227ba8877f5d931d499f099c1abe/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/88dc227ba8877f5d931d499f099c1abe/featured.png",
+                        "background": "https://media.fortniteapi.io/images/88dc227ba8877f5d931d499f099c1abe/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/88dc227ba8877f5d931d499f099c1abe/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#9092ABFF",
+                "gradiant": {
+                    "start": "#4F4F69FF",
+                    "stop": "#4F4F6900"
+                }
+            }
+        },
+        {
+            "id": "CID_A_010_Athena_Commando_M_Tar_46FMC",
+            "name": "Флэш",
+            "description": "Барри Аллен, самый быстрый человек на Земле.",
+            "type": "outfit",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 13",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/16a4710873b95698b7c2089b2f3d9a3c7f53cd52cff724668200b3454c68145d",
+            "releaseDate": "2021-02-14",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.45,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_A_010_M_Tar_46FMC.png",
+            "icon": "https://media.fortniteapi.io/images/25177d43b7f6e040ee6d50a6b555454c/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/25177d43b7f6e040ee6d50a6b555454c/background_full.ru.png",
+            "items": [
+                "cid_a_010_athena_commando_m_tar_46fmc",
+                "bid_586_tar_dijgh"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_586_Tar_DIJGH",
+                    "name": "Сила скорости",
+                    "description": "Энергетическое поле, которое наделяет всех бегунов силой.",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/8f0f2f7de31fe75d9884e3d6d1eef0a3/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/8f0f2f7de31fe75d9884e3d6d1eef0a3/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/8f0f2f7de31fe75d9884e3d6d1eef0a3/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_Tar_S9YVE",
+            "name": "На скорую руку",
+            "description": "Перекус со скоростью света.",
+            "type": "emote",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 400,
+            "priceNoDiscount": 400,
+            "categories": "Panel 13",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/5e1804f9315086348cc893b9cf0e710ca83e44d8e671ffd99f2b4337743c27fd",
+            "releaseDate": "2021-02-14",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.89,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/EID_Tar_S9YVE.png",
+            "icon": "https://media.fortniteapi.io/images/dd14e89fe1776c8a324881345147f069/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/dd14e89fe1776c8a324881345147f069/background_full.ru.png",
+            "items": [
+                "eid_tar_s9yve"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_548_TarMale_8X3BY",
+            "name": "Векторы скорости",
+            "description": "Физическое воплощение силы Алого Бегуна.",
+            "type": "pickaxe",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "Panel 13",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/4385d0e294ad43955be49ee0f288e3e4695efe924d626dc24e1920b4ff96b245",
+            "releaseDate": "2021-02-14",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.77,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/Pickaxe_ID_548_TarMale_8X3BY.png",
+            "icon": "https://media.fortniteapi.io/images/6611dd19380b075ae1371733defd9b3e/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/6611dd19380b075ae1371733defd9b3e/background_full.ru.png",
+            "items": [
+                "pickaxe_id_548_tarmale_8x3by"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_809_Athena_Commando_M_Seaweed_IXRLQ",
+            "name": "Чёрная Манта",
+            "description": "Безжалостный наёмник из морских глубин.",
+            "type": "outfit",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 14",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/93ca16db4a88886518f34e43376509b7775c885345ab2d377450454187673a77",
+            "releaseDate": "2020-07-16",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.4,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_809_Athena_Commando_M_Seaweed_IXRLQ.png",
+            "icon": "https://media.fortniteapi.io/images/a05ce8a8ce0f928646f3efdbc0b56414/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/a05ce8a8ce0f928646f3efdbc0b56414/background_full.ru.png",
+            "items": [
+                "cid_809_athena_commando_m_seaweed_ixrlq",
+                "bid_553_seaweed_nis9v"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_553_Seaweed_NIS9V",
+                    "name": "Рюкзак Чёрной Манты",
+                    "description": "Для сражений на глубине.",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/a1461b395c1df8ac2f1328ae3794daf6/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/a1461b395c1df8ac2f1328ae3794daf6/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/a1461b395c1df8ac2f1328ae3794daf6/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_427_Seaweed1H_CZ9HA",
+            "name": "Мечи Чёрной Манты",
+            "description": "Легендарные клинки Чёрной Манты.",
+            "type": "pickaxe",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 14",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/d000bad4d7db1aecd41fc1b6a63b43570b0757463c2ac8058333f404b61a8056",
+            "releaseDate": "2020-07-16",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.09,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/Pickaxe_ID_427_Seaweed1h_Cz9ha.png",
+            "icon": "https://media.fortniteapi.io/images/8c22130811a4e0a8283376556e362d80/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/8c22130811a4e0a8283376556e362d80/background_full.ru.png",
+            "items": [
+                "pickaxe_id_427_seaweed1h_cz9ha"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "BlackMondayFemaleBundle",
+            "name": "КОМПЛЕКТ ЖЕНЩИНЫ-КОШКИ",
+            "description": "CATWOMAN BUNDLE",
+            "type": "bundle",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1800,
+            "priceNoDiscount": 2600,
+            "categories": "Panel 15",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/483d82b8e1becc8921964296f56b3510ff003746f21642f1bdd5ab883c4fcb1e",
+            "releaseDate": "2020-08-15",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.05,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_BlackMondayFemaleBundle.png",
+            "icon": "https://media.fortniteapi.io/images/72788d2f356d17bd9dd4f410cb5c5aac/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/72788d2f356d17bd9dd4f410cb5c5aac/background_full.ru.png",
+            "items": [
+                "cid_530_athena_commando_f_blackmonday_1bv6j",
+                "bid_361_blackmondayfemale_r0p2n",
+                "pickaxe_id_276_blackmondayfemale1h_1v4he",
+                "eid_blackmondayfemale_6ho4l"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_530_Athena_Commando_F_BlackMonday_1BV6J",
+                    "name": "Классическая экипировка Женщины-кошки",
+                    "description": "Хищница выходит на охоту.",
+                    "type": "outfit",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/3b994941d143e7152146b3322d101a79/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/3b994941d143e7152146b3322d101a79/featured.png",
+                        "background": "https://media.fortniteapi.io/images/3b994941d143e7152146b3322d101a79/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/3b994941d143e7152146b3322d101a79/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "BID_361_BlackMondayFemale_R0P2N",
+                    "name": "Рубиновая кошка",
+                    "description": "Замурчательный трофей. ",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d72d5f5b3e7732cfc231d9bac1ba3169/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/d72d5f5b3e7732cfc231d9bac1ba3169/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/d72d5f5b3e7732cfc231d9bac1ba3169/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_276_BlackMondayFemale1H_1V4HE",
+                    "name": "Кошки",
+                    "description": "Продемонстрируйте кошачью ловкость.",
+                    "type": "pickaxe",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f4334357447f3854d36b6c5513d0da77/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/f4334357447f3854d36b6c5513d0da77/featured.png",
+                        "background": "https://media.fortniteapi.io/images/f4334357447f3854d36b6c5513d0da77/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/f4334357447f3854d36b6c5513d0da77/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "EID_BlackMondayFemale_6HO4L",
+                    "name": "Хлыст",
+                    "description": "Признавайтесь: кто плохо себя вёл? ",
+                    "type": "emote",
+                    "rarity": "dc",
+                    "internalRarity": "uncommon",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/cbdde38faf314f5d793c11a92f5eb6cb/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/cbdde38faf314f5d793c11a92f5eb6cb/featured.png",
+                        "background": "https://media.fortniteapi.io/images/cbdde38faf314f5d793c11a92f5eb6cb/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cbdde38faf314f5d793c11a92f5eb6cb/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#9092ABFF",
+                "gradiant": {
+                    "start": "#4F4F69FF",
+                    "stop": "#4F4F6900"
+                }
+            }
+        },
+        {
+            "id": "CID_530_Athena_Commando_F_BlackMonday_1BV6J",
+            "name": "Классическая экипировка Женщины-кошки",
+            "description": "Хищница выходит на охоту.",
+            "type": "outfit",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 15",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/508e1f35ad5c173be5cfbbed7e05d6b161c8534c719d3b0638ed670e9caf98de",
+            "releaseDate": "2019-09-21",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.29,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CID_530_Athena_Commando_F_BlackMonday_1BV6J.png",
+            "icon": "https://media.fortniteapi.io/images/3b994941d143e7152146b3322d101a79/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/3b994941d143e7152146b3322d101a79/background_full.ru.png",
+            "items": [
+                "cid_530_athena_commando_f_blackmonday_1bv6j",
+                "bid_361_blackmondayfemale_r0p2n"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_361_BlackMondayFemale_R0P2N",
+                    "name": "Рубиновая кошка",
+                    "description": "Замурчательный трофей. ",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d72d5f5b3e7732cfc231d9bac1ba3169/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/d72d5f5b3e7732cfc231d9bac1ba3169/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/d72d5f5b3e7732cfc231d9bac1ba3169/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_276_BlackMondayFemale1H_1V4HE",
+            "name": "Кошки",
+            "description": "Продемонстрируйте кошачью ловкость.",
+            "type": "pickaxe",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 15",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/66d1acec335c6035ae66d298f4f125483eb2c6083ef6ca70a67bb43d97b1a185",
+            "releaseDate": "2019-09-21",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.78,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Pickaxe_ID_276_BlackMondayFemale1H_1V4HE.png",
+            "icon": "https://media.fortniteapi.io/images/f4334357447f3854d36b6c5513d0da77/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/f4334357447f3854d36b6c5513d0da77/background_full.ru.png",
+            "items": [
+                "pickaxe_id_276_blackmondayfemale1h_1v4he"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_BlackMondayFemale_6HO4L",
+            "name": "Хлыст",
+            "description": "Признавайтесь: кто плохо себя вёл? ",
+            "type": "emote",
+            "rarity": "dc",
+            "internalRarity": "uncommon",
+            "price": 300,
+            "priceNoDiscount": 300,
+            "categories": "Panel 15",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/7569a8563d2b84d8d6812c82b56881894ddb34e8300a6dfd4540b012d5c37c42",
+            "releaseDate": "2019-09-21",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.14,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/EID_BlackMondayFemale_6HO4L.png",
+            "icon": "https://media.fortniteapi.io/images/cbdde38faf314f5d793c11a92f5eb6cb/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/cbdde38faf314f5d793c11a92f5eb6cb/background_full.ru.png",
+            "items": [
+                "eid_blackmondayfemale_6ho4l"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "BlackMondayGearBundle",
+            "name": "КОМПЛЕКТ СНАРЯЖЕНИЯ БЭТМЕНА",
+            "description": "BATMAN GEAR BUNDLE",
+            "type": "bundle",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 2000,
+            "categories": "Panel 16",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/63b4d4d0d4bc993e87ecec94932339c75ddf93573b3d7b39af3bdeede3b1b0f8",
+            "releaseDate": "2020-08-15",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.02,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_BlackMondayGearBundle.png",
+            "icon": "https://media.fortniteapi.io/images/882fe2ad89868890f9749ab3ab9340a0/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/882fe2ad89868890f9749ab3ab9340a0/background_full.ru.png",
+            "items": [
+                "glider_id_176_blackmondaycape_4p79k",
+                "musicpack_030_blackmonday_x91zh",
+                "eid_blackmondaymale_e0vsb",
+                "eid_blackmondaymale2"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "Glider_ID_176_BlackMondayCape_4P79K",
+                    "name": "Бэт-глайдер",
+                    "description": "Городская легенда.",
+                    "type": "glider",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/3715cf7f0a4a54f00cb7d952fc4ead2e/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/3715cf7f0a4a54f00cb7d952fc4ead2e/featured.png",
+                        "background": "https://media.fortniteapi.io/images/3715cf7f0a4a54f00cb7d952fc4ead2e/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/3715cf7f0a4a54f00cb7d952fc4ead2e/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "MusicPack_030_BlackMonday_X91ZH",
+                    "name": "Крестоносец в Маске",
+                    "description": "Включите музыку и отправляйтесь бороться с преступностью.",
+                    "type": "music",
+                    "rarity": "dc",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/b5f79aed4cec181b1396e30397b7b80e/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/b5f79aed4cec181b1396e30397b7b80e/featured.png",
+                        "background": "https://media.fortniteapi.io/images/b5f79aed4cec181b1396e30397b7b80e/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/b5f79aed4cec181b1396e30397b7b80e/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "EID_BlackMondayMale_E0VSB",
+                    "name": "Бэт-сигнал",
+                    "description": "Героя вызывали?",
+                    "type": "emote",
+                    "rarity": "dc",
+                    "internalRarity": "uncommon",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/023c555e3af9ed9758a12c37a4c0d618/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/023c555e3af9ed9758a12c37a4c0d618/featured.png",
+                        "background": "https://media.fortniteapi.io/images/023c555e3af9ed9758a12c37a4c0d618/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/023c555e3af9ed9758a12c37a4c0d618/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "EID_BlackMondayMale2",
+                    "name": "Мастер единоборств",
+                    "description": "Мне оружие ни к чему.",
+                    "type": "emote",
+                    "rarity": "dc",
+                    "internalRarity": "uncommon",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/ebf449e212aac43d7bf837167e8de9ec/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/ebf449e212aac43d7bf837167e8de9ec/featured.png",
+                        "background": "https://media.fortniteapi.io/images/ebf449e212aac43d7bf837167e8de9ec/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/ebf449e212aac43d7bf837167e8de9ec/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": {
+                "background": "#9092ABFF",
+                "gradiant": {
+                    "start": "#4F4F69FF",
+                    "stop": "#4F4F6900"
+                }
+            }
+        },
+        {
+            "id": "Glider_ID_176_BlackMondayCape_4P79K",
+            "name": "Бэт-глайдер",
+            "description": "Городская легенда.",
+            "type": "glider",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "Panel 16",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/68df481213706df4a6f60677acc6e75f372fe9cd6d5c69284ef5e97d1c50fd4b",
+            "releaseDate": "2019-09-21",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.74,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_Glider_ID_176_BlackMondayCape_4P79K.png",
+            "icon": "https://media.fortniteapi.io/images/3715cf7f0a4a54f00cb7d952fc4ead2e/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/3715cf7f0a4a54f00cb7d952fc4ead2e/background_full.ru.png",
+            "items": [
+                "glider_id_176_blackmondaycape_4p79k"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "MusicPack_030_BlackMonday_X91ZH",
+            "name": "Крестоносец в Маске",
+            "description": "Включите музыку и отправляйтесь бороться с преступностью.",
+            "type": "music",
+            "rarity": "dc",
+            "internalRarity": "rare",
+            "price": 200,
+            "priceNoDiscount": 200,
+            "categories": "Panel 16",
+            "priority": -7,
+            "banner": "",
+            "offer": "v2:/9211b2791217e51cb0d58495ff0aea1bd32e789bde734f4d6ddcf25cfb35e330",
+            "releaseDate": "2019-09-21",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.79,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_MusicPack_030_BlackMonday_X91ZH.png",
+            "icon": "https://media.fortniteapi.io/images/b5f79aed4cec181b1396e30397b7b80e/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/b5f79aed4cec181b1396e30397b7b80e/background_full.ru.png",
+            "items": [
+                "musicpack_030_blackmonday_x91zh"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_BlackMondayMale_E0VSB",
+            "name": "Бэт-сигнал",
+            "description": "Героя вызывали?",
+            "type": "emote",
+            "rarity": "dc",
+            "internalRarity": "uncommon",
+            "price": 300,
+            "priceNoDiscount": 300,
+            "categories": "Panel 16",
+            "priority": -8,
+            "banner": "",
+            "offer": "v2:/ac52e950ae7f602adee44f802244e1803343b24d0c4cb75b6c9939f3a9fb9705",
+            "releaseDate": "2019-09-21",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.16,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_EID_BlackMondayMale_E0VSB.png",
+            "icon": "https://media.fortniteapi.io/images/023c555e3af9ed9758a12c37a4c0d618/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/023c555e3af9ed9758a12c37a4c0d618/background_full.ru.png",
+            "items": [
+                "eid_blackmondaymale_e0vsb"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "EID_BlackMondayMale2",
+            "name": "Мастер единоборств",
+            "description": "Мне оружие ни к чему.",
+            "type": "emote",
+            "rarity": "dc",
+            "internalRarity": "uncommon",
+            "price": 300,
+            "priceNoDiscount": 300,
+            "categories": "Panel 16",
+            "priority": -9,
+            "banner": "",
+            "offer": "v2:/bf0ca29fc4f1027856a81af5adb29a48dd432387b3dbd6aad4db583aa1971eea",
+            "releaseDate": "2019-10-12",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.13,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_EID_BlackMondayMale2.png",
+            "icon": "https://media.fortniteapi.io/images/ebf449e212aac43d7bf837167e8de9ec/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/ebf449e212aac43d7bf837167e8de9ec/background_full.ru.png",
+            "items": [
+                "eid_blackmondaymale2"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "BroccoliMale_Bundle",
+            "name": "КОМПЛЕКТ «БИСТБОЙ»",
+            "description": "BEAST BOY BUNDLE",
+            "type": "bundle",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 2000,
+            "priceNoDiscount": 2600,
+            "categories": "Panel 17",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/8d16d6cca789e07b0732813b7c7a523ce5e4fa4333b482d11920cac9c0a2d705",
+            "releaseDate": "2021-05-14",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.17,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_BroccoliMale_Bundle.png",
+            "icon": "https://media.fortniteapi.io/images/89ef1a74d8882119815a9d92aec40628/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/89ef1a74d8882119815a9d92aec40628/background_full.ru.png",
+            "items": [
+                "cid_a_092_athena_commando_m_broccoli_pr297",
+                "bid_758_broccoli_tk4hh",
+                "pickaxe_id_597_broccolimale_gmz6w"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_092_Athena_Commando_M_Broccoli_PR297",
+                    "name": "Бистбой",
+                    "description": "По его словам, он просто душка.",
+                    "type": "outfit",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/772779e4f9f37ec63341584c3678df5a/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/772779e4f9f37ec63341584c3678df5a/featured.png",
+                        "background": "https://media.fortniteapi.io/images/772779e4f9f37ec63341584c3678df5a/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/772779e4f9f37ec63341584c3678df5a/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "BID_758_Broccoli_TK4HH",
+                    "name": "Пятничный комплект",
+                    "description": "Вечер пятницы обещает быть приятным.",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/3f6c1e43264764da45c75ab98ee7a35d/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/3f6c1e43264764da45c75ab98ee7a35d/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/3f6c1e43264764da45c75ab98ee7a35d/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_597_BroccoliMale_GMZ6W",
+                    "name": "Бистбойная бита",
+                    "description": "Подарок от Виктора.",
+                    "type": "pickaxe",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/5cf49ef6c857270e906c10d0b8019568/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/5cf49ef6c857270e906c10d0b8019568/featured.png",
+                        "background": "https://media.fortniteapi.io/images/5cf49ef6c857270e906c10d0b8019568/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/5cf49ef6c857270e906c10d0b8019568/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_A_092_Athena_Commando_M_Broccoli_PR297",
+            "name": "Бистбой",
+            "description": "По его словам, он просто душка.",
+            "type": "outfit",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1800,
+            "priceNoDiscount": 1800,
+            "categories": "Panel 17",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/4aa456fe0c4aff6faf862d02ba7f85764febce0c42811dba330d575718e8900e",
+            "releaseDate": "2021-05-14",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.8,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_A_092_M_Broccoli.png",
+            "icon": "https://media.fortniteapi.io/images/772779e4f9f37ec63341584c3678df5a/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/772779e4f9f37ec63341584c3678df5a/background_full.ru.png",
+            "items": [
+                "cid_a_092_athena_commando_m_broccoli_pr297",
+                "bid_758_broccoli_tk4hh"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_758_Broccoli_TK4HH",
+                    "name": "Пятничный комплект",
+                    "description": "Вечер пятницы обещает быть приятным.",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/3f6c1e43264764da45c75ab98ee7a35d/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/3f6c1e43264764da45c75ab98ee7a35d/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/3f6c1e43264764da45c75ab98ee7a35d/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_597_BroccoliMale_GMZ6W",
+            "name": "Бистбойная бита",
+            "description": "Подарок от Виктора.",
+            "type": "pickaxe",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 17",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/a8c5660d3fb9d609eda942d819f7a215b8047fd6ec37672a9d1fd498ae7ca02f",
+            "releaseDate": "2021-05-14",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.98,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/Pickaxe_ID_597_BroccoliMale_GMZ6W.png",
+            "icon": "https://media.fortniteapi.io/images/5cf49ef6c857270e906c10d0b8019568/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/5cf49ef6c857270e906c10d0b8019568/background_full.ru.png",
+            "items": [
+                "pickaxe_id_597_broccolimale_gmz6w"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CavernMale_Bundle",
+            "name": "КОМПЛЕКТ «БЭТМЕН ИЗ ЭПИЦЕНТРА»",
+            "description": "BATMAN ZERO BUNDLE",
+            "type": "bundle",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 2100,
+            "priceNoDiscount": 3500,
+            "categories": "Panel 18",
+            "priority": -1,
+            "banner": "",
+            "offer": "v2:/fd6cfd03be516e9c5c42d2b42548942da9c8ef9f51cbaf351d7146130712ead3",
+            "releaseDate": "2021-05-05",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.87,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CavernMale_Bundle.png",
+            "icon": "https://media.fortniteapi.io/images/57fa98ce46c853cec9c530104a7b988e/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/57fa98ce46c853cec9c530104a7b988e/background_full.ru.png",
+            "items": [
+                "cid_a_070_athena_commando_m_cavern_3i6i1",
+                "bid_744_cavernmale_cf6je",
+                "pickaxe_id_589_cavernmale_9u0a8",
+                "glider_id_289_cavernmale_5i9rd",
+                "lsid_296_cavern_60exf"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_070_Athena_Commando_M_Cavern_3I6I1",
+                    "name": "Бэтмен из Эпицентра",
+                    "description": "Человек-легенда.",
+                    "type": "outfit",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/484ef87adfea2024fb98dd4599410a90/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/484ef87adfea2024fb98dd4599410a90/featured.png",
+                        "background": "https://media.fortniteapi.io/images/484ef87adfea2024fb98dd4599410a90/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/484ef87adfea2024fb98dd4599410a90/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "BID_744_CavernMale_CF6JE",
+                    "name": "Боевой плащ",
+                    "description": "Идеальный плащ для любого боя.",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/335c621cf554141397f5eb365b6f1391/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/335c621cf554141397f5eb365b6f1391/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/335c621cf554141397f5eb365b6f1391/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_589_CavernMale_9U0A8",
+                    "name": "Крюк-топор",
+                    "description": "Нанесите Бэт-удар.",
+                    "type": "pickaxe",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/85741cc195490e6ffd845538c07b6247/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/85741cc195490e6ffd845538c07b6247/featured.png",
+                        "background": "https://media.fortniteapi.io/images/85741cc195490e6ffd845538c07b6247/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/85741cc195490e6ffd845538c07b6247/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Glider_ID_289_CavernMale_5I9RD",
+                    "name": "Крылья Бэтмена из Эпицентра",
+                    "description": "Бэт-глайдер, проверенный в бою.",
+                    "type": "glider",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/823af0f1147129d960c2ada60a79a5d2/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/823af0f1147129d960c2ada60a79a5d2/featured.png",
+                        "background": "https://media.fortniteapi.io/images/823af0f1147129d960c2ada60a79a5d2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/823af0f1147129d960c2ada60a79a5d2/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "LSID_296_Cavern_60EXF",
+                    "name": "Бэтмен из Эпицентра",
+                    "description": "По мотивам творчества Рэйли Брауна, Нельсона Де Кастро и Джона Калиша.",
+                    "type": "loadingscreen",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/be98db1773f43ab37f33fff2d44d6cfc/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/be98db1773f43ab37f33fff2d44d6cfc/featured.png",
+                        "background": "https://media.fortniteapi.io/images/be98db1773f43ab37f33fff2d44d6cfc/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/be98db1773f43ab37f33fff2d44d6cfc/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_A_070_Athena_Commando_M_Cavern_3I6I1",
+            "name": "Бэтмен из Эпицентра",
+            "description": "Человек-легенда.",
+            "type": "outfit",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1500,
+            "priceNoDiscount": 1500,
+            "categories": "Panel 18",
+            "priority": -2,
+            "banner": "",
+            "offer": "v2:/891392976113d23511074a86aa4d3c950213541df36fd904bd47056dc10c68d1",
+            "releaseDate": "2021-05-05",
+            "lastAppearance": "2021-06-12",
+            "interest": 2.41,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_A_070_M_Cavern_3I6I1.png",
+            "icon": "https://media.fortniteapi.io/images/484ef87adfea2024fb98dd4599410a90/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/484ef87adfea2024fb98dd4599410a90/background_full.ru.png",
+            "items": [
+                "cid_a_070_athena_commando_m_cavern_3i6i1",
+                "bid_744_cavernmale_cf6je"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "BID_744_CavernMale_CF6JE",
+                    "name": "Боевой плащ",
+                    "description": "Идеальный плащ для любого боя.",
+                    "type": "backpack",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/335c621cf554141397f5eb365b6f1391/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/335c621cf554141397f5eb365b6f1391/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/335c621cf554141397f5eb365b6f1391/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Glider_ID_289_CavernMale_5I9RD",
+            "name": "Крылья Бэтмена из Эпицентра",
+            "description": "Бэт-глайдер, проверенный в бою.",
+            "type": "glider",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "Panel 18",
+            "priority": -3,
+            "banner": "",
+            "offer": "v2:/0fed0c2eb457ecee24ff7d531437aa6c0595a1e9c9f93f78a7c1b76d696f4a93",
+            "releaseDate": "2021-05-05",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.96,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/Glider_ID_289_CavernMale_5I9RD.png",
+            "icon": "https://media.fortniteapi.io/images/823af0f1147129d960c2ada60a79a5d2/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/823af0f1147129d960c2ada60a79a5d2/background_full.ru.png",
+            "items": [
+                "glider_id_289_cavernmale_5i9rd"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_589_CavernMale_9U0A8",
+            "name": "Крюк-топор",
+            "description": "Нанесите Бэт-удар.",
+            "type": "pickaxe",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "Panel 18",
+            "priority": -4,
+            "banner": "",
+            "offer": "v2:/832773690a5ab7e9fa5acc9fd48b7f1026bcc37bbb94212e56825b5ace489e9a",
+            "releaseDate": "2021-05-05",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.84,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/Pickaxe_ID_589_CavernMale_9U0A8.png",
+            "icon": "https://media.fortniteapi.io/images/85741cc195490e6ffd845538c07b6247/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/85741cc195490e6ffd845538c07b6247/background_full.ru.png",
+            "items": [
+                "pickaxe_id_589_cavernmale_9u0a8"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        }
+    ],
+    "specialDaily": [
+        {
+            "id": "CavernFemale_Bundle",
+            "name": "КОМПЛЕКТ «ЖЕНЩИНА-КОШКА ИЗ ЭПИЦЕНТРА»",
+            "description": "CATWOMAN ZERO BUNDLE",
+            "type": "bundle",
+            "rarity": "dc",
+            "internalRarity": "rare",
+            "price": 1500,
+            "priceNoDiscount": 2000,
+            "categories": "zDaily 01",
+            "priority": -5,
+            "banner": "",
+            "offer": "v2:/37b62857155ac05427275f6a52305cab7dc814c90595cb1e5d3c82c7977d1b2f",
+            "releaseDate": "2021-05-19",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.44,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/DA_Featured_CavernFemale_Bundle.png",
+            "icon": "https://media.fortniteapi.io/images/74a293e96e25389f96bbbd610fc76971/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/74a293e96e25389f96bbbd610fc76971/background_full.ru.png",
+            "items": [
+                "cid_a_094_athena_commando_f_cavern_33lmc",
+                "pickaxe_id_599_cavernfemale"
+            ],
+            "otherItemsDetails": [
+                {
+                    "id": "CID_A_094_Athena_Commando_F_Cavern_33LMC",
+                    "name": "Женщина-кошка из Эпицентра",
+                    "description": "Она вернулась.",
+                    "type": "outfit",
+                    "rarity": "dc",
+                    "internalRarity": "rare",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/bc0dca1bae51a572088a28532ea5c62f/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/bc0dca1bae51a572088a28532ea5c62f/featured.png",
+                        "background": "https://media.fortniteapi.io/images/bc0dca1bae51a572088a28532ea5c62f/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/bc0dca1bae51a572088a28532ea5c62f/background_full.ru.png"
+                    }
+                },
+                {
+                    "id": "Pickaxe_ID_599_CavernFemale",
+                    "name": "Крюк Женщины-кошки",
+                    "description": "Замурчательное приспособление.",
+                    "type": "pickaxe",
+                    "rarity": "dc",
+                    "internalRarity": "epic",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/6611610a7c2c07da2930b683dde37eef/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/6611610a7c2c07da2930b683dde37eef/featured.png",
+                        "background": "https://media.fortniteapi.io/images/6611610a7c2c07da2930b683dde37eef/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/6611610a7c2c07da2930b683dde37eef/background_full.ru.png"
+                    }
+                }
+            ],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "CID_A_094_Athena_Commando_F_Cavern_33LMC",
+            "name": "Женщина-кошка из Эпицентра",
+            "description": "Она вернулась.",
+            "type": "outfit",
+            "rarity": "dc",
+            "internalRarity": "rare",
+            "price": 1200,
+            "priceNoDiscount": 1200,
+            "categories": "zDaily 02",
+            "priority": -6,
+            "banner": "",
+            "offer": "v2:/9aeeb8a94092aacf8d4f3c1487db46c3ba803d9aaaf657c4c4f867bee0be926e",
+            "releaseDate": "2021-05-19",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.98,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/CID_A_094_F_Cavern.png",
+            "icon": "https://media.fortniteapi.io/images/bc0dca1bae51a572088a28532ea5c62f/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/bc0dca1bae51a572088a28532ea5c62f/background_full.ru.png",
+            "items": [
+                "cid_a_094_athena_commando_f_cavern_33lmc"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        },
+        {
+            "id": "Pickaxe_ID_599_CavernFemale",
+            "name": "Крюк Женщины-кошки",
+            "description": "Замурчательное приспособление.",
+            "type": "pickaxe",
+            "rarity": "dc",
+            "internalRarity": "epic",
+            "price": 800,
+            "priceNoDiscount": 800,
+            "categories": "zDaily 03",
+            "priority": -7,
+            "banner": "",
+            "offer": "v2:/945f2bae673337b7dec22c9754a39990fb0261bca6274f48f623c1c401577067",
+            "releaseDate": "2021-05-19",
+            "lastAppearance": "2021-06-12",
+            "interest": 1.29,
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "image": "https://media.fortniteapi.io/images/displayAssets/v2/Pickaxe_ID_599_CavernFemale.png",
+            "icon": "https://media.fortniteapi.io/images/6611610a7c2c07da2930b683dde37eef/transparent.png",
+            "full_background": "https://media.fortniteapi.io/images/6611610a7c2c07da2930b683dde37eef/background_full.ru.png",
+            "items": [
+                "pickaxe_id_599_cavernfemale"
+            ],
+            "otherItemsDetails": [],
+            "videos": [],
+            "customColors": null
+        }
+    ],
+    "community": [],
+    "offers": []
+}
